@@ -1,0 +1,1 @@
+Here I have created a machine learning model to predict the income using Linear Regression. This model predicts the income of a person based on his/her past years income and could predict income for any year.
